@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juuso!
-- 👀 I’m interested in learning more about databases and back-end programming.
-- 🌱 I’m currently learning about software testing and information security.
+- 👀 I’m interested in learning more about databases and fullstack programming
+- 🌱 I’m currently learning Javascript and Python
 - 💼 Open to interships and trainee programs!
 - 📫 You can reach me at http://linkedin.com/in/juuso-vuori
 <!---
