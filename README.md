@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Juuso!
 - 👀 I’m interested in learning more about databases and fullstack programming
-- 🌱 I’m currently learning Javascript and Python
-- 💼 Open to interships and trainee programs!
+- 🌱 I’m currently learning Javascript
 - 📫 You can reach me at http://linkedin.com/in/juuso-vuori
 <!---
 Joosov/Joosov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
